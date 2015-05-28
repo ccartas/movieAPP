@@ -1,0 +1,23 @@
+#Test values for USER
+#name length
+ale
+#name numbers
+cosmin123
+#name uppercase
+cosmin
+#password length
+dasda
+#email validation
+cosmincosmin
+#sex validation
+X
+#varsta 0 value
+0
+#varsta negative value
+-20
+#username invalid
+ken
+#user id negativ
+-10
+#user id nul
+0
